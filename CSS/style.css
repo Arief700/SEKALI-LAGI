@@ -1,0 +1,29 @@
+#header1{
+  width: 100%;
+background-attachment: fixed;
+  background-color: white;
+  position:relative;
+
+}
+#body{
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlUaK30_GFBvMOdUWKf%2F-LlWDeBhTPOc6jmYCcQZ%2F-LlWP2E-lYrQHTQ81l4U%2Fpattern.jpg?alt=media&token=573bd606-a2c8-4b7c-aa05-7f6ad6d341fc");
+  background-position: top;
+}
+#navi{
+  text-align:right;
+  
+}
+#section{
+  background-color: white;
+  margin: 0px 100px;
+  position: relative;
+  padding-top: 20px;
+}
+#footer{
+  position:relative;
+	background:#000;
+	height:40px;
+	line-height:40px;
+	color:#fff;
+	text-align:center;
+}
